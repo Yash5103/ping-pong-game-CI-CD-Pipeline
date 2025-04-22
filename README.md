@@ -1051,3 +1051,21 @@ http://<public_ip>:80
 🎉 Congratulations! You've successfully set up a complete CI/CD pipeline for your **Ping Pong Game** using **AWS CodePipeline, ECS, ECR, S3, and CodeBuild**!
 
 
+#### Screenshots
+1) ECS Cluster
+ ![ECS](https://github.com/user-attachments/assets/5d5b0d7b-70ea-426b-9f7b-4aeb888dd7cf)
+
+2) Project build with help of AWS CodeBuild
+![codebuild](https://github.com/user-attachments/assets/e781d824-14a5-4dca-819e-634b1b15921c)
+
+3) Codepipeline[Source, build, Deploy]  Running on AWS Codepipeline.
+![Codepipeline](https://github.com/user-attachments/assets/4e4e3741-9e7f-4c5e-b145-5d891000488b)
+
+4) Deployed Game
+![game](https://github.com/user-attachments/assets/96975e4e-ebf7-4cdc-abc6-e60c4ec797f0)
+
+
+
+
+
+
